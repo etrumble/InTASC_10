@@ -1,7 +1,7 @@
 <html>
 
 <body>
-[InTASC 10 Reflection](https://github.com/etrumble/InTASC_10/blob/master/InTASC%2010%20Relfection.pdf)
+[InTASC 10 Reflection]{https://github.com/etrumble/InTASC_10/blob/master/InTASC%2010%20Relfection.pdf}
 <p>Abstract:This portfolio entry includes School Culture Interviews with 6 th grade teacher Kerry Sancomb and high school teacher Megan Pahr, and how they have impacted my teaching confidence, experience, and attitude. The time I spent in their classrooms was an incredibly rewarding and I will always have that experience to reflect upon in the future.</p>
 <p>Rationale: This reflection is not only evidence of my growth as a teacher, but also a selfreflection of my teaching experience, starting when I was in high school. I have grown into myself as a teacher and Megan Pahr and Kerry Sancomb have been an immense impact on that.</p>
 <h3 align="center">InTASC 10 Reflection</h3>
