@@ -1,7 +1,7 @@
 <html>
 
 <body>
-
+[embed]https://github.com/etrumble/InTASC_10/blob/master/InTASC%2010%20Relfection.pdf[/embed]
 <p>Abstract: This portfolio entry includes a School Culture Interview with 6th grade teacher Mrs. Kerry Sancomb, and how she has impacted my teaching confidence, experience, and attitude. The time I spent in her classroom was an incredibly rewarding and I will always have that experience to reflect upon in the future.</p>
 <p>Rationale: This reflection is not only evidence of my growth as a teacher, but also a self-reflection of my teaching experience, starting when I was in high school. I have grown into myself as a teacher and Kerry Sancomb has been an immense impact on that. </p>
 <h3 align="center">InTASC 10 Reflection</h3>
