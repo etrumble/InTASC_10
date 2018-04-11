@@ -1,7 +1,7 @@
 <html>
 
 <body>
-  PDF Versions: 
+  PDFs: 
   <p><a href="School%20log%20hours.pdf">Part Time Internship Hours</a></p>
   <p><a href="School%20Culture%20Interview%20full%20Middle%20School%20Rotation.pdf">Middle School Culture Interview</a></p>
   <p><a href="Pahr%20School%20Culture%20Interview.pdf">High School Culture Interview</a></p>
