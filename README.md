@@ -2,11 +2,11 @@
 
 <body>
   PDF Versions: 
-  <a href="School%20log%20hours.pdf">Part Time Internship Hours</a>
-  <a href="School%20Culture%20Interview%20full%20Middle%20School%20Rotation.pdf">Middle School Culture Interview</a>
-  <a href="Pahr%20School%20Culture%20Interview.pdf">High School Culture Interview</a>
-  <a href="InTASC%2010%20School%20Life%20Learning%20Log.pdf">School Life Learning Log</a>
-  <a href="InTASC%2010%20Relfection.pdf">InTASC 10 Reflection</a>
+  <p><a href="School%20log%20hours.pdf">Part Time Internship Hours</a></p>
+  <p><a href="School%20Culture%20Interview%20full%20Middle%20School%20Rotation.pdf">Middle School Culture Interview</a></p>
+  <p><a href="Pahr%20School%20Culture%20Interview.pdf">High School Culture Interview</a></p>
+  <p><a href="InTASC%2010%20School%20Life%20Learning%20Log.pdf">School Life Learning Log</a></p>
+  <p><a href="InTASC%2010%20Relfection.pdf">InTASC 10 Reflection</a></p>
 <p>Abstract:This portfolio entry includes School Culture Interviews with 6 th grade teacher Kerry Sancomb and high school teacher Megan Pahr, and how they have impacted my teaching confidence, experience, and attitude. The time I spent in their classrooms was an incredibly rewarding and I will always have that experience to reflect upon in the future.</p>
 <p>Rationale: This reflection is not only evidence of my growth as a teacher, but also a selfreflection of my teaching experience, starting when I was in high school. I have grown into myself as a teacher and Megan Pahr and Kerry Sancomb have been an immense impact on that.</p>
 <h3 align="center">InTASC 10 Reflection</h3>
