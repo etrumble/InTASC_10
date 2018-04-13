@@ -17,3 +17,15 @@
 <p>Mrs. Pahrs teaching philosophy is that a teacher never stops learning. I am a passionate believer in the same exact thing. I truly believe that a teacher should learn from every experience every day, should always be adapting for improvement. She constantly asks students to give her feedback on her teaching and I want to have a classroom with a similar environment where students feel safe to give constructive feedback. Mrs. Sancomb’s teaching philosophy is this: all children are unique and grow at their own pace; I will provide a safe and stimulating and exciting environment so students can meet their full potential. Taking risks, growing and learning from mistakes, and providing a growth mindset approach to learning is key. This impacts me because it is a really great summary of what a teacher should always keep in mind: the students. Teaching is not about doing what you want to do; it is about giving opportunities to each student so they can learn in their own unique way. This is why individualized differentiation is so important. I have seen these things in her classroom; although the curriculums are rigorous, Kerry has a way to try and make sure every student is doing the very best they can. She also contacts parents for both good and bad reasons as often as she can, and she emails with them constantly giving updates and talking about students. This is not only a wonderful way to help students, it is also a fantastic communication technique to integrate into the community.</p>
 <p>Community is important because although teachers may not live in the area, they are a part of it. As a beginning teacher community is the biggest thing that I need to integrate myself into. Parents, students, teachers, neighbors, they all make a community a wonderful place to be. Volunteering for school events such as dances, sports, concerts, and clubs are a great first step to integration into an already fantastic community. Taking opportunities in general to interact with the people already in the community such as parents and other teachers means a lot to me because wherever I teach, I want to make the biggest and most positive difference that I can.</p>
   
+  <h2 align="center">Portfolio Entries</h2>
+<p align="center"><a href="https://etrumble.github.io/Emily-Trumble-Portfolio/">Introduction</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_1/">InTASC 1</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_2/">InTASC 2</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_3/">InTASC 3</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_4/">InTASC 4</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_5/">InTASC 5</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_7/">InTASC 7</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_8/">InTASC 8</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_10/">InTASC 10</a></p>
+<p align="center"><a href="https://etrumble.github.io/Technology_Standard/">Technology Standard</a></p>
+  
